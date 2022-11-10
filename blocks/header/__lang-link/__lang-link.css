@@ -1,0 +1,8 @@
+.header__lang-link {
+  color: white;
+  gap: 18px;
+}
+
+.header__lang-link:first-of-type {
+  margin-left: auto;
+}
