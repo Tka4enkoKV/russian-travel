@@ -8,3 +8,12 @@
   margin: 0 auto auto;
   position: relative;
 }
+
+@media screen and (max-width: 520px) {
+  .cover__subtitle {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    max-width: 288px;
+  }
+}
