@@ -5,4 +5,9 @@
   color: #FFFFFF;
   text-decoration: none;
   margin-right: 18px;
+  transition: .2s;
+}
+
+.footer__link:hover {
+  opacity: .8;
 }
