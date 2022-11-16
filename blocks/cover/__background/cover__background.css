@@ -20,6 +20,8 @@
   opacity: .3;
   transition: .2s;
   position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .cover__background:hover::before {

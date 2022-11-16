@@ -21,7 +21,8 @@
     max-width: 720px;
     grid-template-columns: 340px minmax(min-content, max-content);
     column-gap: 28px;
-    margin: 72px auto;
+    margin-top: 72px;
+    margin-bottom: 72px;
   }
 }
 
@@ -31,6 +32,7 @@
     grid-template-columns: 1fr;
     grid-template-rows: auto;
     gap: 32px;
-    margin: 50px auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
 }
